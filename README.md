@@ -12,7 +12,7 @@ Lead Scoring Case Study : Python commented file include EDA,Logistic model regre
 
 Assignment Subjective Question : Answer all the questions asked by the company in the word document provided and convert it into PDF.
 
-Lead Score :  Make a presentation to present our analysis and converting it into PDF format.
+Lead Score :  Making a Power-point presentation to present our analysis and converting it into PDF format.
 
 Summary : summary report in a word file and submit it as a PDF.
 
