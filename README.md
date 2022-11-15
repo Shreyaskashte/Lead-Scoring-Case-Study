@@ -8,7 +8,7 @@ So , our objective is to provide model which can promise the most leads to X edu
 
 ## Documents
 
-Lead Scoreg Case Study : Python commented file include EDA,Logistic model regression and Confusion Matrix with  detailed comments.
+Lead Scoring Case Study : Python commented file include EDA,Logistic model regression and Confusion Matrix with  detailed comments.
 
 Assignment Subjective Question : Answer all the questions asked by the company in the word document provided and convert it into PDF.
 
